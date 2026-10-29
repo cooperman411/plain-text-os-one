@@ -92,3 +92,7 @@ You don't need to organize your entire life to get something out of PT/OS One.
 Start with one project, one preference, or one thing you're tired of explaining. Your document can grow with you.
 
 **The goal isn't to build another complicated system. It's to make the AI tools you already use more useful.**
+
+## Help improve PT/OS One
+
+Found something confusing or broken? Have an idea for making it simpler? Read [CONTRIBUTING.md](CONTRIBUTING.md) to report a problem, suggest a change, or contribute an edit. You don't need to know how to code.
