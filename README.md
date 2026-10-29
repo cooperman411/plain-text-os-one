@@ -18,6 +18,15 @@ No special software. No complicated setup. No subscription required.
 
 **Just one document.**
 
+## Which PT/OS Version Should You Use?
+
+PT/OS comes in two versions:
+
+- **PT/OS One (this repository):** One portable document you can paste into an AI conversation or upload where supported. No file-management tools are required.
+- **[PT/OS Workspace](https://github.com/cooperman411/plain-text-os):** An AI-managed collection of files for ongoing projects, priorities, and workflows. Your AI needs access to persistent storage where it can read and update files.
+
+Choose the version that fits how you use AI. Neither requires you to start with the other.
+
 ## What can you do with it?
 
 PT/OS One can help your AI understand:
