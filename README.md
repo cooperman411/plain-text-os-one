@@ -1,22 +1,19 @@
 # PT/OS One
 
-**Your personal AI operating framework in plain text. As simple as it gets.**
+PT/OS One keeps the context you want an AI assistant to reuse in one plain-text document. Bring it to a new conversation or a different assistant to carry forward your preferences, projects, and decisions.
 
-## Stop starting from scratch with AI.
+## Start
 
-You've told your AI how you like things written. You've explained what you're working on, what matters to you, and how you prefer to get things done.
+Paste this prompt into your AI assistant.
 
-Then you open another AI assistant, start a new conversation, and find yourself explaining everything again.
+```text
+Help me set up PT/OS One using this repository.
+https://github.com/cooperman411/plain-text-os-one
 
-**PT/OS One gives you a simple way to take that information with you.**
+Read README.md and AGENT.md. Help me create a personal AI document. Ask one question at a time.
+```
 
-It's a personal document that helps AI assistants understand you, use the information you've chosen to preserve, and pick up where you left off.
-
-You own it. You control what's in it. And you can use it with different AI assistants without rebuilding everything from scratch.
-
-No special software. No complicated setup. No subscription required.
-
-**Just one document.**
+If your assistant cannot open the repository, paste the contents of [AGENT.md](AGENT.md) into the conversation. Ask the assistant to follow those instructions. Save the document it creates. If your assistant cannot save files, copy the text into a file you control.
 
 ## Which PT/OS Version Should You Use?
 
@@ -39,26 +36,6 @@ PT/OS One can help your AI understand:
 You don't need to fill out a questionnaire or write a biography.
 
 Start with something useful. Your AI helps you build the document through an ordinary conversation.
-
-## Getting started
-
-Copy this prompt into your favorite AI assistant:
-
-```text
-Help me set up PT/OS One using https://github.com/cooperman411/plain-text-os-one. Read the README.md and AGENT.md files, then walk me through creating my own personal AI document. Keep it simple and ask me one question at a time.
-```
-
-**That's it.** If your AI can open the repository, it should guide you through creating and saving your document.
-
-### If your AI can't open the link
-
-Some AI assistants cannot access GitHub directly. Open [AGENT.md](AGENT.md), copy its contents into your AI conversation, and say:
-
-> Help me get started.
-
-Your AI should still be able to guide you through setup. If it can create files, it may provide a document to download. Otherwise, it should give you the complete text to save yourself.
-
-Once you've created your personal document, you won't need `AGENT.md` for ordinary use. Your document contains the instructions another AI needs to understand and maintain it.
 
 ## From simple conversations to more capable AI
 
@@ -105,6 +82,16 @@ Start with one project, one preference, or one thing you're tired of explaining.
 ## Help improve PT/OS One
 
 Found something confusing or broken? Have an idea for making it simpler? Read [CONTRIBUTING.md](CONTRIBUTING.md) to report a problem, suggest a change, or contribute an edit. You don't need to know how to code.
+
+## Public Projects
+
+- [AteBit.Tech](https://github.com/cooperman411/AteBitTech)
+- [AI Sales Prospecting & Outreach](https://github.com/cooperman411/ai-sales-prospecting-outreach)
+- [AI Social Publishing for Muse](https://github.com/cooperman411/ai-social-publishing)
+- [Hotel Group Sourcing Skill](https://github.com/cooperman411/hotel-group-rfp)
+- [Hotel Revenue Management Toolkit](https://github.com/cooperman411/hotel-revenue-management)
+- [PT/OS One](https://github.com/cooperman411/plain-text-os-one)
+- [PT/OS Workspace](https://github.com/cooperman411/plain-text-os)
 
 ## License
 
