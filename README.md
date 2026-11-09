@@ -1,19 +1,42 @@
 # PT/OS One
 
-PT/OS One keeps the context you want an AI assistant to reuse in one plain-text document. Bring it to a new conversation or a different assistant to carry forward your preferences, projects, and decisions.
+**Your personal AI operating framework in plain text. As simple as it gets.**
 
 ## Start
 
 Paste this prompt into your AI assistant.
 
 ```text
-Help me set up PT/OS One using this repository.
-https://github.com/cooperman411/plain-text-os-one
-
-Read README.md and AGENT.md. Help me create a personal AI document. Ask one question at a time.
+Help me set up PT/OS One using https://github.com/cooperman411/plain-text-os-one. Read the README.md and AGENT.md files, then walk me through creating my own personal AI document. Keep it simple and ask me one question at a time.
 ```
 
-If your assistant cannot open the repository, paste the contents of [AGENT.md](AGENT.md) into the conversation. Ask the assistant to follow those instructions. Save the document it creates. If your assistant cannot save files, copy the text into a file you control.
+**That's it.** If your AI can open the repository, it should guide you through creating and saving your document.
+
+### If your AI can't open the link
+
+Some AI assistants cannot access GitHub directly. Open [AGENT.md](AGENT.md), copy its contents into your AI conversation, and say:
+
+> Help me get started.
+
+Your AI should still be able to guide you through setup. If it can create files, it may provide a document to download. Otherwise, it should give you the complete text to save yourself.
+
+Once you've created your personal document, you won't need `AGENT.md` for ordinary use. Your document contains the instructions another AI needs to understand and maintain it.
+
+## Stop starting from scratch with AI.
+
+You've told your AI how you like things written. You've explained what you're working on, what matters to you, and how you prefer to get things done.
+
+Then you open another AI assistant, start a new conversation, and find yourself explaining everything again.
+
+**PT/OS One gives you a simple way to take that information with you.**
+
+It's a personal document that helps AI assistants understand you, use the information you've chosen to preserve, and pick up where you left off.
+
+You own it. You control what's in it. And you can use it with different AI assistants without rebuilding everything from scratch.
+
+No special software. No complicated setup. No subscription required.
+
+**Just one document.**
 
 ## Which PT/OS Version Should You Use?
 
@@ -83,7 +106,15 @@ Start with one project, one preference, or one thing you're tired of explaining.
 
 Found something confusing or broken? Have an idea for making it simpler? Read [CONTRIBUTING.md](CONTRIBUTING.md) to report a problem, suggest a change, or contribute an edit. You don't need to know how to code.
 
-## Public Projects
+## License
+
+Unless otherwise noted, the original material in this repository is © 2026 [cooperman411](https://github.com/cooperman411) and is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE.md).
+
+You may copy, adapt, redistribute, and use it commercially. Give appropriate credit, link to the license, and indicate if you made changes.
+
+Your private PT/OS documents and your own original information are not automatically licensed under CC BY 4.0 merely because you used this project. If you redistribute text copied or adapted from the repository, its attribution requirements still apply.
+
+## Other Public Projects
 
 - [AteBit.Tech](https://github.com/cooperman411/AteBitTech)
 - [AI Sales Prospecting & Outreach](https://github.com/cooperman411/ai-sales-prospecting-outreach)
@@ -92,11 +123,3 @@ Found something confusing or broken? Have an idea for making it simpler? Read [C
 - [Hotel Revenue Management Toolkit](https://github.com/cooperman411/hotel-revenue-management)
 - [PT/OS One](https://github.com/cooperman411/plain-text-os-one)
 - [PT/OS Workspace](https://github.com/cooperman411/plain-text-os)
-
-## License
-
-Unless otherwise noted, the original material in this repository is © 2026 [cooperman411](https://github.com/cooperman411) and is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE.md).
-
-You may copy, adapt, redistribute, and use it commercially. Give appropriate credit, link to the license, and indicate if you made changes.
-
-Your private PT/OS documents and your own original information are not automatically licensed under CC BY 4.0 merely because you used this project. If you redistribute text copied or adapted from the repository, its attribution requirements still apply.
