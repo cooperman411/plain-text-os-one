@@ -2,6 +2,8 @@
 
 **Your personal AI operating framework in plain text. As simple as it gets.**
 
+Paste it into an AI conversation or upload it where supported. It helps that AI understand how you work and what you've decided, with no file tools or setup. You own it and control what's in it, and you can take it to a different AI assistant without starting over.
+
 ## Start
 
 Paste this prompt into your AI assistant.
