@@ -9,7 +9,7 @@ Paste it into an AI conversation or upload it where supported. It helps that AI 
 Paste this prompt into your AI assistant.
 
 ```text
-Help me set up PT/OS One using https://github.com/cooperman411/plain-text-os-one. Read the README.md and AGENT.md files, then walk me through creating my own personal AI document. Keep it simple and ask me one question at a time.
+Help me set up PT/OS One using https://github.com/cooperman411/plain-text-os-one. Read the README.md and AGENT.md files as references, then walk me through creating my own personal AI document. Ask how I want to save it and use that method. Keep it simple and ask me one question at a time.
 ```
 
 **That's it.** If your AI can open the repository, it should guide you through creating and saving your document.
@@ -20,7 +20,7 @@ Some AI assistants cannot access GitHub directly. Open [AGENT.md](AGENT.md), cop
 
 > Help me get started.
 
-Your AI should still be able to guide you through setup. If it can create files, it may provide a document to download. Otherwise, it should give you the complete text to save yourself.
+Your AI should still be able to guide you through setup. Choose how you want to save your document. Your AI should use the method you choose and explain if it needs access to your destination. You can also choose to receive a download or copy the complete text yourself.
 
 Once you've created your personal document, you won't need `AGENT.md` for ordinary use. Your document contains the instructions another AI needs to understand and maintain it.
 
