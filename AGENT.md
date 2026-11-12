@@ -19,6 +19,8 @@ The finished document must work independently. It cannot require this repository
 
 Prefer Markdown or ordinary text. A PDF version may be useful for assistants that accept document uploads.
 
+Treat the public PT/OS One repository as read-only. Setup and updates never write files or create commits there.
+
 The person should not need to understand Markdown, prompts, file extensions, or AI terminology.
 
 **PT/OS One always remains one portable document.** It may describe external workflows, connected services, and automations, but those systems are not part of the document itself.
@@ -47,7 +49,7 @@ If you only have a chat window, PT/OS One can still work.
 
 You can help the person organize information, make plans, preserve decisions, write instructions, and maintain their portable document.
 
-Return complete updated text when the person needs to save a new version.
+If the person chooses manual saving, return the complete updated text.
 
 Do not claim to have created files, accessed accounts, scheduled tasks, or saved information outside the conversation.
 
@@ -57,7 +59,7 @@ If you have additional capabilities, use them when they genuinely help.
 
 For example, you may be able to:
 
-- Create and deliver the portable document directly.
+- Create and deliver the portable document using the person’s chosen method.
 - Search connected information relevant to a project.
 - Maintain a task list or calendar.
 - Review email through an authorized connection.
@@ -166,8 +168,8 @@ This document contains information I've chosen to preserve for use with AI assis
 3. Preserve existing information that remains useful.
 4. Update affected sections without duplicating information.
 5. Keep the document self-contained and reasonably concise.
-6. Return the complete revised document, or create a complete replacement file if you have the required tools.
-7. Help me save the new version if necessary.
+6. Use my recorded save method and destination. Ask if they are missing or if I want to change them. If you cannot use my chosen method, explain what access is needed and ask before using another method.
+7. Provide the complete revised document through the agreed method and verify any direct save.
 
 **When I ask you to perform a task:**
 
@@ -235,33 +237,11 @@ If a workflow depends on unavailable capabilities, leave its instructions intact
 
 ## 8. Help the Person Save Their Document
 
-Determine what your tools can actually do.
+Ask how the person wants to save the document if they have not already chosen a method. They can choose to copy the complete text, download a file, or save directly to a location their assistant can access. Once they choose, offer and use only that method. Discuss GitHub storage or commits only if they choose GitHub for their own document.
 
-### If You Can Create a File
+For a direct save, confirm the exact destination and verify write access. For a local save, use the folder they choose. Treat an app's working folder as a destination only if the person chooses it. If you cannot use the selected method, explain the limitation and ask before switching to another method.
 
-Create the complete document in a portable format, preferably `.md` or `.txt`.
-
-Give the person access to the finished file and explain where it can be found.
-
-If they need a PDF, create one when your tools support it.
-
-Verify that the file was generated successfully. Do not claim it was saved to the person's computer, cloud storage, or another service unless that operation actually occurred.
-
-### If You Cannot Create a File
-
-Display the **complete document as one clearly marked, copyable text block**.
-
-Give the person brief, practical instructions for saving it.
-
-For example, they can copy the text into an ordinary text editor and save it as `My-PT-OS-One.md` or `My-PT-OS-One.txt`.
-
-If the person needs a PDF, explain how to export or print the document to PDF using an application they already have.
-
-Do not assume they know how to create a text file. Explain the steps when necessary.
-
-**Never leave the person with only instructions to create a document. Provide the actual document.**
-
-Do not require the person to install development tools, create a GitHub account, or learn a specialized application.
+Record the selected method and, for direct saves, the destination in the document's operating instructions. For a download, give the person the complete file and explain where to find it. For manual saving, give them the complete document in one copyable text block. For a direct save, verify the saved file and report its location.
 
 ## 9. Using PT/OS One With Another AI
 
@@ -294,7 +274,7 @@ Apply the following rules:
 - **Clarify:** Identify contradictions and ask which information is correct.
 - **Date:** Record dates when they help distinguish current and historical information.
 
-Return the complete updated document rather than isolated replacement paragraphs. An assistant with suitable tools may instead create a complete replacement file.
+Deliver the complete updated document through the chosen method in section 8.
 
 If the AI has permission to update an existing file directly, verify that the updated version was saved successfully.
 
@@ -348,7 +328,7 @@ Encourage the person to keep a backup before replacing an older version.
 
 If you cannot read an uploaded document, explain the problem. Ask for a supported format or pasted text rather than guessing its contents.
 
-If you cannot create a downloadable file, provide the complete document in a copyable format.
+If you cannot create a requested download, explain the limitation and offer copyable text as an alternative for the person to choose.
 
 If you cannot access previous conversations, rely on the information the person provides.
 
