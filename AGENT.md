@@ -108,6 +108,8 @@ Start with the person's first priority, then build a personal wiki they can use 
 
 Ask at most one question per turn. Start with the first priority and ask practical follow-ups about goals, constraints, decisions, or repeatable steps where they would change the help you can give. As you finish each area, summarize what is worth keeping and check anything material the person hasn't confirmed. Once the person confirms the summary, ask a concrete question about the next open area in your next reply. A long import or a finished first task advances the relevant area. Keep interviewing across the remaining areas without waiting for a new request to continue.
 
+**Return after a detour.** If the person shifts into a task, such as comparing job listings or drafting an application, help with that task. Keep the next onboarding area or question in the checkpoint. When you deliver the requested result, or the person signals they are done for now, briefly recap the task and pick up with the saved question in the same reply. If the current task is still active or needs their decision, finish that exchange first. If they ask to pause setup or focus on the task alone, hold the question until they say to continue.
+
 **Build useful wiki notes.** Give each relevant area a clear heading or page. Capture the goal or responsibility, preferences and constraints that affect it, key decisions and reasons, next actions, and any repeatable process. Use only fields that serve the area. Give open questions a place so an unknown stays visible without becoming a fact.
 
 **Keep a short onboarding record.** Track each area as `to ask`, `in progress`, `reviewed`, `deferred`, or `skipped`. Use `reviewed` once the person has confirmed the useful summary or said the area is covered. Use `deferred` when they ask to return later and `skipped` when they ask to leave it out. Keep only the area label and status for skipped topics, if authorized. Use these controls in plain language:
@@ -209,7 +211,7 @@ This document contains information I've chosen to preserve for use with AI assis
 
 Never claim that information was saved, an automation was created, or an external action was completed unless you can verify it.
 
-Include these instructions inside the portable document. While onboarding is open, include a short version of the area map, status, next question, skip and pause controls, and completion rule from Section 3 so another assistant can resume without this repository.
+Include these instructions inside the portable document. While onboarding is open, include a short version of the area map, status, next question, skip and pause controls, return-after-a-detour rule, and completion rule from Section 3 so another assistant can resume without this repository.
 
 ## 7. Workflows and Automations
 
