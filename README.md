@@ -9,10 +9,13 @@ Paste it into an AI conversation or upload it where supported. It helps that AI 
 Paste this prompt into your AI assistant.
 
 ```text
-Help me set up PT/OS One using https://github.com/cooperman411/plain-text-os-one. Read the README.md and AGENT.md files, then walk me through creating my own personal AI document. Keep it simple and ask me one question at a time.
+Help me set up PT/OS One. Read and follow AGENT.md:
+https://github.com/cooperman411/plain-text-os-one
+Start with what matters to me, then interview me one question at a time
+to build my personal wiki across the areas I choose. Keep it in one document.
 ```
 
-**That's it.** If your AI can open the repository, it should guide you through creating and saving your document.
+Start with a real priority, then cover other areas that matter to you, such as home, projects, routines, and how you want the AI to work. Share existing conversations or notes if they can save time. Say **skip**, **later**, **checkpoint**, **pause**, or **continue** as you go. At a checkpoint, your AI gives you the complete current document to keep, with a note on where to pick up.
 
 ### If your AI can't open the link
 
@@ -60,7 +63,7 @@ PT/OS One can help your AI understand:
 
 You don't need to fill out a questionnaire or write a biography.
 
-Start with something useful. Your AI helps you build the document through an ordinary conversation.
+Your AI helps you build the document through an ordinary conversation. When you return, share your latest copy and ask to continue from your checkpoint.
 
 ## From simple conversations to more capable AI
 
